@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792683965|3671385';
+const CACHE_VERSION = '1792684419|3690021';
 /** @type {string} */
 const CACHE_PREFIX = 'Void Station - T-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
